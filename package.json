@@ -28,7 +28,7 @@
     "apply-loader": "^2.0.0",
     "awesome-typescript-loader": "^5.2.1",
     "css-loader": "^5.1.1",
-    "electron": "^7.0.0",
+    "electron": "^9.4.0",
     "ngx-toastr": "^8.8.0",
     "node-sass": "^5.0.0",
     "pug": "^2.0.3",
